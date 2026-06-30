@@ -1,0 +1,17 @@
+# Large datasets
+data/
+
+# Large models
+models/random_forest.pkl
+models/lstm_model.keras
+models/X_train_w2v.npy
+models/X_test_w2v.npy
+models/word2vec.model
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
